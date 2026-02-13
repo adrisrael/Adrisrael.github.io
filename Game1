@@ -1,1 +1,10 @@
 game1/index.html
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Game 1</title>
+</head>
+<body>
+  <h1>Game 1 works</h1>
+</body>
+</html>
